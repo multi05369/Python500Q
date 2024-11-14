@@ -1,0 +1,2 @@
+'''print the pattern'''
+print("/\\/\\/\\")
